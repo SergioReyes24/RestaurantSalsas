@@ -11,7 +11,7 @@ const ServicioDomicilio = () => {
       </p>
 
       <p>
-            El servicio de envío tiene una cuota simbólica de $20 pesos, Qin no exige consumos mínimos a sus clientes.
+            El servicio de envío tiene una cuota simbólica de <b>$20 pesos,</b> no se exige consumos mínimos a sus clientes.
       </p>
 
       <p>
