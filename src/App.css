@@ -113,6 +113,7 @@ nav > .LinkInactivo:hover {
 .Contenedor {
   display: flex;
   justify-content: space-evenly;
+  box-sizing: border-box;
 }
 
 .Sucursal {
@@ -161,32 +162,6 @@ nav > .LinkInactivo:hover {
   transform: scale(1.3);
 }
 
-.Registro, .Ingreso {
-  background-color: var(--Amarillo);
-  padding: 5%;
-  font-size: 1.5em;
-  box-shadow: 5px 5px 40px var(--Rojo1);
-  margin-bottom: 5%;
-}
-
-.Registro > form > label {
-  font-size: 1.1em;
-  padding: 15px;
-}
-
-.Registro > form > input {
-  padding: 15px;
-}
-
-.Ingreso > form > label {
-  font-size: 1.1em;
-  padding: 15px;
-}
-
-.Ingreso > form > input {
-  padding: 15px;
-}
-
 button {
   font-size: 1em;
   padding: 15px;
@@ -221,4 +196,8 @@ footer > div > a > img {
   width: 25%;
   padding-top: 25%;
   padding-left: 8%;
+}
+
+.BANNER {
+  width: 100%;
 }

@@ -13,7 +13,7 @@ export default function Platillos() {
             <div>
                 <div>
                     <h2>-Combo 01-</h2>
-                    <img className='Comida' src="https://blog.aconcaguafoods.cl/hs-fs/hubfs/shutterstock_626682878.jpg?width=1000&height=667&name=shutterstock_626682878.jpg" alt="" />
+                    <img className='Comida' src="https://d2r9epyceweg5n.cloudfront.net/stores/002/567/558/themes/style/1-slide-1684512947097-1344611543-076185a70455e870d0f17045e7b805221684512958-1920-1920.webp?242544022" alt="" />
                     <h4>1 persona</h4>
                     <p>1 platillo con dos acompañamientos</p>
                     <button>$140</button>
@@ -21,7 +21,7 @@ export default function Platillos() {
                 <br /><br /><br /><br />
                 <div>
                     <h2>-Combo 03-</h2>
-                    <img className='Comida' src="https://blog.aconcaguafoods.cl/hs-fs/hubfs/shutterstock_2111189351.jpg?width=1000&height=667&name=shutterstock_2111189351.jpg" alt="" />
+                    <img className='Comida' src="https://d2r9epyceweg5n.cloudfront.net/stores/002/567/558/themes/style/1-slide-1684512947097-645118475-101763bbdf49513510f70eb0ed9b3b351684512956-1920-1920.webp?242544022" alt="" />
                     <h4>2 personas</h4>
                     <p>3 platillos con dos acompañamientos</p>
                     <button>$206</button>
@@ -31,7 +31,7 @@ export default function Platillos() {
             <div>
                 <div>
                     <h2>-Combo 02-</h2>
-                    <img className='Comida' src="https://blog.aconcaguafoods.cl/hs-fs/hubfs/shutterstock_706771882.jpg?width=1000&height=668&name=shutterstock_706771882.jpg" alt="" />
+                    <img className='Comida' src="https://d2r9epyceweg5n.cloudfront.net/stores/002/567/558/themes/style/1-slide-1684512947097-8971737854-edb0ce52414846057d205d4dadf0fe111684512955-1920-1920.webp?242544022" alt="" />
                     <h4>Mucha Hambre</h4>
                     <p>2 platillos con dos acompañamientos</p>
                     <button>$179</button>
@@ -39,7 +39,7 @@ export default function Platillos() {
                 <br /><br />
                 <div>
                     <h2>-Infantil-</h2>
-                    <img className='Comida' src="https://blog.aconcaguafoods.cl/hs-fs/hubfs/shutterstock_1976156264.jpg?width=1000&height=662&name=shutterstock_1976156264.jpg" alt="" />
+                    <img className='Comida' src="https://d2r9epyceweg5n.cloudfront.net/stores/002/567/558/themes/style/1-slide-1684512947096-654564746-876f69c506ab80deab7017b24d85535a1684512953-1920-1920.webp?242544022" alt="" />
                     <h4>Poca Hambre</h4>
                     <p>1 cucharada de tu platillo favorito sobre una cama de cualquier acompañamiento.</p>
                     <button>$98</button>

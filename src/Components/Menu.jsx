@@ -13,11 +13,11 @@ export function Menu(){
   }
     return (
         <nav className='Menu'>
-          <NavLink to={"/"}>Inicio</NavLink>
+          <NavLink to={"/Inicio"}>Inicio</NavLink>
           <NavLink to={"/Platillos"}>Menú</NavLink>
           <NavLink to={"/ServicioDomicilio"}>ServicioDomicilio</NavLink>
           <NavLink to={"/Sucursales"}>Sucursales</NavLink>
-          <NavLink to={"/Cuenta"}>Cuenta</NavLink>
+          <NavLink to={"/Reserva"}>Reserva</NavLink>
         </nav>
     );
 }
