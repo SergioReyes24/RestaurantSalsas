@@ -201,3 +201,43 @@ footer > div > a > img {
 .BANNER {
   width: 100%;
 }
+
+label, input {
+  font-size: 1.5rem;
+}
+
+#Horario, #Fecha, #Grupo {
+  padding: .3rem;
+}
+
+select {
+  background-color: var(--Amarillo);
+  color: #000;
+  border: 2px solid #e74c3c;
+  width: 10%;
+}
+
+#Enviar {
+  padding: .3rem 5rem;
+  background-color: var(--Rojo1);
+  color: #fff;
+  border-color: var(--Rojo3);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  animation: Pulso 1s linear infinite;
+  transition: 1s;
+  cursor: pointer;
+}
+
+#Enviar:hover {
+  background-color: #ffb300;
+  color: #000;
+}
+
+@keyframes Pulso {
+  0% {
+    transform: scale(.9);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

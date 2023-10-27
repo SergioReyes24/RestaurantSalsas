@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
 import ServicioDomicilio from './ServicioDomicilio'
 import Sucursales from './Sucursales'
 import { Menu } from './Menu'
@@ -20,6 +20,7 @@ export default function App() {
             <Route path='/ServicioDomicilio' element={<ServicioDomicilio/>} />
             <Route path='/Sucursales' element={<Sucursales/>} />
             <Route path='/Reserva' element={<Reserva/>} />
+            <Route path='*' replace element={<Navigate to="/Inicio" />} />
         </Routes>
       </BrowserRouter>
       <Footer/>
