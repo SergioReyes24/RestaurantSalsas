@@ -15,6 +15,7 @@ export function Menu(){
         <nav className='Menu'>
           <NavLink to={"/Inicio"}>Inicio</NavLink>
           <NavLink to={"/Platillos"}>Menú</NavLink>
+          <NavLink to={"/Productos"}>Productos</NavLink>
           <NavLink to={"/ServicioDomicilio"}>ServicioDomicilio</NavLink>
           <NavLink to={"/Sucursales"}>Sucursales</NavLink>
           <NavLink to={"/Reserva"}>Reserva</NavLink>

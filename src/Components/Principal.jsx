@@ -7,6 +7,7 @@ import Footer from './Footer'
 import Platillos from './Platillos'
 import Reserva from './Reserva'
 import Inicio from './Inicio'
+import Productos from './Productos'
 
 export default function App() {
 
@@ -17,6 +18,7 @@ export default function App() {
         <Routes>
             <Route path='/Inicio' element={<Inicio/>}></Route>
             <Route path='/Platillos' element={<Platillos/>} />
+            <Route path='/Productos' element={<Productos/>} />
             <Route path='/ServicioDomicilio' element={<ServicioDomicilio/>} />
             <Route path='/Sucursales' element={<Sucursales/>} />
             <Route path='/Reserva' element={<Reserva/>} />
