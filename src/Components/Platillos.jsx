@@ -36,7 +36,7 @@ export default function Platillos() {
                     <p>2 platillos con dos acompañamientos</p>
                     <button>$179</button>
                 </div>
-                <br /><br />
+                <br /><br /> <br /><br />
                 <div>
                     <h2>-Infantil-</h2>
                     <img className='Comida' src="https://d2r9epyceweg5n.cloudfront.net/stores/002/567/558/themes/style/1-slide-1684512947096-654564746-876f69c506ab80deab7017b24d85535a1684512953-1920-1920.webp?242544022" alt="" />
